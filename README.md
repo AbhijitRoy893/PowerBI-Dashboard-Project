@@ -26,7 +26,9 @@ Which locations should be prioritized for safety interventions?
 
 📊 Key Insights
 
-MetricValueTotal casualties (2022)~195.7KYear-over-year change~11.9% decreaseUrban area casualties~61.9%Daylight casualties~73.8%Single carriageway casualties~145K
+Metric | Value
+Rural area casualties | ~38.1%
+Let me know if you meant something else — like another CV bullet point, or a different metric to add to the table.
 
 
 Casualty patterns compared month-wise between 2021 and 2022
