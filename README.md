@@ -6,7 +6,7 @@ An interactive Power BI dashboard that analyzes road accident and casualty data 
 Road accident datasets contain large volumes of records that are difficult to interpret in spreadsheets. This dashboard converts raw data into actionable insights, helping identify high-risk areas, trends, and contributing factors behind road accidents.
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard-preview.png)
+![Dashboard](dashboard.png)
 
 ❓ Business Problem
 
